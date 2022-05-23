@@ -1,9 +1,0 @@
-POST https://8001-akashnanistar-gitpod1-bryv792js6k.ws-us44.gitpod.io/tinder/cards HTTP/1.1
-Content-Type: application/json
-
-[
-    {
-        "name" : "kajal",
-        "url" : "https://caknowledge.com/wp-content/uploads/2021/05/Kajal-Aggarwal-Net-Worth.jpeg"
-    }
-]
